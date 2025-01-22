@@ -1,0 +1,14 @@
+E:\ITU\Dotnet\Dotgame\obj\Debug\net9.0-windows\Dotgame.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITU\Dotnet\Dotgame\obj\Debug\net9.0-windows\Dotgame.AssemblyInfoInputs.cache
+E:\ITU\Dotnet\Dotgame\obj\Debug\net9.0-windows\Dotgame.AssemblyInfo.cs
+E:\ITU\Dotnet\Dotgame\obj\Debug\net9.0-windows\Dotgame.csproj.CoreCompileInputs.cache
+E:\ITU\Dotnet\Dotgame\bin\Debug\net9.0-windows\Dotgame.exe
+E:\ITU\Dotnet\Dotgame\bin\Debug\net9.0-windows\Dotgame.deps.json
+E:\ITU\Dotnet\Dotgame\bin\Debug\net9.0-windows\Dotgame.runtimeconfig.json
+E:\ITU\Dotnet\Dotgame\bin\Debug\net9.0-windows\Dotgame.dll
+E:\ITU\Dotnet\Dotgame\bin\Debug\net9.0-windows\Dotgame.pdb
+E:\ITU\Dotnet\Dotgame\obj\Debug\net9.0-windows\Dotgame.dll
+E:\ITU\Dotnet\Dotgame\obj\Debug\net9.0-windows\refint\Dotgame.dll
+E:\ITU\Dotnet\Dotgame\obj\Debug\net9.0-windows\Dotgame.pdb
+E:\ITU\Dotnet\Dotgame\obj\Debug\net9.0-windows\Dotgame.genruntimeconfig.cache
+E:\ITU\Dotnet\Dotgame\obj\Debug\net9.0-windows\ref\Dotgame.dll
